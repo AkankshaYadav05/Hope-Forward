@@ -1,9 +1,47 @@
 # Welcome to the project
 
-## Project info
+## Project Overview
+Designed and built a clean, responsive website for an NGO to help connect with volunteers and spread awareness about their mission. The website includes a home page, an about us section, and a volunteer registration form.
 
-**URL**: https://lovable.dev/projects/dc79576f-c97d-430b-acb7-517fc8f99ade
 
+## Features
+
+## Home Page
+Eye-catching hero section with NGO mission
+
+Call-to-action buttons (e.g., "Join as Volunteer", "Learn More")
+
+Responsive layout using Bootstrap Grid system
+
+## About Us
+Brief story of the NGO’s foundation and vision
+
+List of core values and focus areas (e.g., education, environment, health)
+
+## Volunteer Registration Form
+Form includes:
+
+Name, Email, Phone
+
+Availability (days/times)
+
+Area of interest
+
+Form uses basic HTML5 validation
+
+Mobile-friendly form design using Bootstrap cards and form controls
+
+## Responsive Design
+Uses Bootstrap 5 for mobile-first responsiveness
+
+Layout adapts across phones, tablets, and desktops
+
+Navbar collapses into a hamburger menu on small screens
+
+## Purpose
+Created as part of a frontend/web development assignment
+
+Simulates real-world use case of an NGO platform for connecting with volunteers and donors
 ## How can I edit this code?
 
 There are several ways of editing your application.
