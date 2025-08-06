@@ -54,11 +54,16 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## Some Screenshots of the Porject
+<img width="1809" height="889" alt="image" src="https://github.com/user-attachments/assets/a796ae95-c1ee-4b20-83db-1ffd16232de7" />
+<img width="1825" height="795" alt="image" src="https://github.com/user-attachments/assets/f43801c2-48b6-4ba9-ad4f-6dcde8ff30c7" />
+<img width="1774" height="924" alt="image" src="https://github.com/user-attachments/assets/58cfa444-4cd6-4419-a09b-ee4d414043da" />
+<img width="1835" height="798" alt="image" src="https://github.com/user-attachments/assets/f4e849c1-29d1-4f54-b477-ae5d5909e9f5" />
+<img width="1829" height="848" alt="image" src="https://github.com/user-attachments/assets/8ab004ec-f1f9-43ae-89b3-8ae45f403a03" />
+<img width="1704" height="911" alt="image" src="https://github.com/user-attachments/assets/c9d028f2-9a24-42b7-8d83-3808fa33016f" />
+<img width="1484" height="831" alt="image" src="https://github.com/user-attachments/assets/254cbdf7-9ec3-4438-9ecb-3ad8a0cba594" />
 
-## Can I connect a custom domain to my project?
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
